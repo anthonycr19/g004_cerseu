@@ -23,6 +23,3 @@ if var_4:
     print("Ingresó a la cuarta condicional")
 if var_4 < var_5:
     print("¡¡Ingresó a la quinta condicional!!")
-
-
-
